@@ -2411,7 +2411,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 132.715 37.465 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45907ba5-6e67-42bb-b3a9-e19f0c9091bb)
-    (property "Reference" "J4" (at 132.715 29.21 0)
+    (property "Reference" "J3" (at 132.715 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "U1V10F5" (at 132.715 31.75 0)
@@ -2429,7 +2429,7 @@
     (instances
       (project "fx82XX"
         (path "/d5effe3a-4045-4007-a8c8-6940eeb133a7"
-          (reference "J4") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -2978,7 +2978,7 @@
   (symbol (lib_id "Connector:Raspberry_Pi_2_3") (at 174.625 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a0433b45-0385-4683-ae25-7b73b02cb9ff)
-    (property "Reference" "J6" (at 181.8991 72.39 0)
+    (property "Reference" "J4" (at 181.8991 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Raspberry_Pi_2_3" (at 181.8991 74.93 0)
@@ -3033,7 +3033,7 @@
     (instances
       (project "fx82XX"
         (path "/d5effe3a-4045-4007-a8c8-6940eeb133a7"
-          (reference "J6") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
