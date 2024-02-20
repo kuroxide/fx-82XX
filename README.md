@@ -1,4 +1,4 @@
-# fx-82 SUS
+# fx-82XX
 This project contains designs for converting a Casio fx-8200 AU (or similar ClassWiz model calculators) into a general purpose computer, by shoving a pastry inside.
 
 ## Rationale
@@ -52,5 +52,5 @@ We'll get to this when I actually bother assembling one. Prepare for dremelling 
 
 # Licensing
 Code portions of this project are licensed under GPLv3. (See LICENSE) \
-This project uses symbols and footprints from the [KiCad libraries](https://www.kicad.org/libraries/) \
+This project uses symbols and footprints from the [KiCad libraries](https://www.kicad.org/libraries/)
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/kuroxide/fx-82XX">fx-82XX</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/kuroxide">kuroxide</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
