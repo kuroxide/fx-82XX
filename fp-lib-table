@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "fx82")(type "KiCad")(uri "${KIPRJMOD}/fx82.pretty")(options "")(descr ""))
+)
